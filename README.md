@@ -14,8 +14,9 @@
     <div style="text-align: left;"> <a href=mailto:yean5383@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yean5383@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeon2423004&show_icons=true&theme=shadow_green)
     </div>
+    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeon2423004&show_icons=true&theme=shadow_green)
     
 
 <!-- 
