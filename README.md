@@ -22,4 +22,6 @@
 </div>
 
 
-    ; Markdown 문법으로 사용됨.
+    <!-- 숨김 메세지입니다.
+    
+    readme는 Markdown 문법으로 사용됨.-->
