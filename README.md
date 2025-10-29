@@ -21,5 +21,5 @@
 <!-- 
     1. readme는 마크다운 문법으로 작성되며, 이것은 렌더링 되지 않음.
     2. https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-    3. [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md](https://github-profile-readme-editor.netlify.app/)](https://github-profile-readme-editor.netlify.app/)
+    3. https://github-profile-readme-editor.netlify.app/secondstep
 -->
