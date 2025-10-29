@@ -14,10 +14,12 @@
     <div style="text-align: left;"> <a href=mailto:yean5383@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yean5383@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeon2423004&show_icons=true&theme=shadow_green)
     </div>
     
 
 <!-- 
-    이 부분은 숨김 메시지입니다. 
-    프로필이나 레포지토리에서 보이지 않습니다.
+    1. readme는 마크다운 문법으로 작성되며, 이것은 렌더링 되지 않음.
+    2. https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+    3. [https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md](https://github-profile-readme-editor.netlify.app/)](https://github-profile-readme-editor.netlify.app/)
 -->
