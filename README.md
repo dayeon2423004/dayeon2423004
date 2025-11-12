@@ -15,10 +15,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-![My GitHub stats](https://github-readme-stats-dayeon2423004.vercel.app/api?username=dayeon2423004&show_icons=true&theme=shadow_green)
-![dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeon2423004&show_icons=true&bg_color=00000000)
-    
-
 <!-- 
     1. readme는 마크다운 문법으로 작성되며, 이것은 렌더링 되지 않음.
     2. https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
