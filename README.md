@@ -16,7 +16,7 @@
     <div style="text-align: left;">  </div> 
     </div>
 ![My GitHub stats](https://github-readme-stats-dayeon2423004.vercel.app/api?username=dayeon2423004&show_icons=true&theme=shadow_green)
-
+![dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeon2423004&show_icons=true&bg_color=00000000)
     
 
 <!-- 
